@@ -1,5 +1,5 @@
 Before running the code, here are the dependencies to install:
-1.conda £¨optional£©
+1.conda (optional)
 2.python2.7
 3.numpy
 
